@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5dznSdKiFW1C6VrZAcKvtvw3NpXK7Fx1CT6bQNizrajW",
+      "symbol": "BP",
+      "name": "Blackpink",
+      "decimals": 0,
+      "logoURI": "https://github.com/yoitsketaset/Kpopcryptocoin/blob/main/Blackpink_logo.jpghttps://github.com/yoitsketaset/Kpopcryptocoin/blob/main/Blackpink_logo.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
